@@ -6,7 +6,7 @@
       <img style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=e4c6&show_icons=trueh&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&theme=dark" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-       <img style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=e4c6&layout=compact&hide_border=true&count_private=true&theme=dark" />
+       <img style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=e4c6&layout=compact&hide_border=true&count_private=true&langs_count=10&theme=dark" />
     </td>
   </tr>
 </table>
