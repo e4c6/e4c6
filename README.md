@@ -1,4 +1,4 @@
-[![much technology](https://readme-typing-svg.herokuapp.com?font=futura&size=30&center=true&vCenter=true&multiline=true&width=1500&height=150&lines=Hi%2C+i'm+Caro!+%F0%9F%91%8B;I+like+reversing+APKs%2C+documenting+APIs+and+automating+business+tasks.;I'm+also+interested+in+NLP+and+the+works+of+OpenAI+in+general.)](https://git.io/typing-svg)
+[![much technology](https://readme-typing-svg.herokuapp.com?font=futura&size=30&center=true&vCenter=true&multiline=true&width=1500&height=150&lines=Hi%2C+i'm+e4c6!+%F0%9F%91%8B;I+like+reversing+APKs%2C+documenting+APIs+and+automating+business+tasks.;I'm+also+interested+in+NLP+and+the+works+of+OpenAI+in+general.)](https://git.io/typing-svg)
 
 <table>
   <tr>
